@@ -39,7 +39,7 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
+
 ![image](https://github.com/user-attachments/assets/fc233586-d7db-43d8-8385-b63f8f2165aa)
 ![image](https://github.com/user-attachments/assets/b58b7d3f-1b15-4019-bbea-d2e5cf47b632)
 ![image](https://github.com/user-attachments/assets/f246b383-d856-4226-bc0a-bd1acd76b9fa)
